@@ -1,0 +1,26 @@
+{
+  "name": "unreal-m-graph",
+  "version": "0.0.1",
+  "description": "m-graph",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowmint/unreal-m-graph.git"
+  },
+  "files": [
+    "index.js",
+    "scripts",
+    "src"
+  ],
+  "author": "douglas.linder@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowmint/unreal-m-graph/issues"
+  },
+  "homepage": "https://github.com/shadowmint/unreal-m-graph",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+  }
+}
